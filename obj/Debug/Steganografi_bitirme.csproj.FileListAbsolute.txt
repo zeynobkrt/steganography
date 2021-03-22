@@ -1,0 +1,10 @@
+C:\Users\Zeynep\Desktop\bitirmeprojesi\Steganografi_bitirme\Steganografi_bitirme\bin\Debug\Steganografi_bitirme.exe.config
+C:\Users\Zeynep\Desktop\bitirmeprojesi\Steganografi_bitirme\Steganografi_bitirme\bin\Debug\Steganografi_bitirme.exe
+C:\Users\Zeynep\Desktop\bitirmeprojesi\Steganografi_bitirme\Steganografi_bitirme\bin\Debug\Steganografi_bitirme.pdb
+C:\Users\Zeynep\Desktop\bitirmeprojesi\Steganografi_bitirme\Steganografi_bitirme\obj\Debug\Steganografi_bitirme.csprojAssemblyReference.cache
+C:\Users\Zeynep\Desktop\bitirmeprojesi\Steganografi_bitirme\Steganografi_bitirme\obj\Debug\Steganografi_bitirme.Form1.resources
+C:\Users\Zeynep\Desktop\bitirmeprojesi\Steganografi_bitirme\Steganografi_bitirme\obj\Debug\Steganografi_bitirme.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\bitirmeprojesi\Steganografi_bitirme\Steganografi_bitirme\obj\Debug\Steganografi_bitirme.csproj.GenerateResource.cache
+C:\Users\Zeynep\Desktop\bitirmeprojesi\Steganografi_bitirme\Steganografi_bitirme\obj\Debug\Steganografi_bitirme.exe
+C:\Users\Zeynep\Desktop\bitirmeprojesi\Steganografi_bitirme\Steganografi_bitirme\obj\Debug\Steganografi_bitirme.pdb
+C:\Users\Zeynep\Desktop\bitirmeprojesi\Steganografi_bitirme\Steganografi_bitirme\obj\Debug\Steganografi_bitirme.csproj.CoreCompileInputs.cache
